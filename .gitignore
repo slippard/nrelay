@@ -10,7 +10,7 @@ api-docs/firebase-debug.log
 
 # Any plugins except defaults
 src/plugins/*
-!src/plugins/hello-plugin.ts
+!src/plugins/enter.ts
 !src/plugins/player-tracker.ts
 
 # Config
